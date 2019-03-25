@@ -15,7 +15,7 @@ Suggestions/concerns/PRs are welcome
 ## Installation
 Assuming you have Python 3 and git installed:
 ```bash
-sudo apt install libssl-dev libcurl4-openssl-dev
+sudo apt install libssl-dev libcurl4-openssl-dev 
 git clone https://github.com/simon987/od-database
 cd od-database
 git submodule update --init --recursive
